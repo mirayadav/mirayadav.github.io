@@ -812,7 +812,7 @@ textarea.form-control {
 /*---------------*/
 
 figure.effect-bubba {
-	background: #fff;
+	background: #FFA07A;
 }
 
 figure.effect-bubba img {
@@ -822,7 +822,7 @@ figure.effect-bubba img {
 }
 
 figure.effect-bubba:hover img {
-	opacity: 0.8;
+	opacity: 0.4;
 }
 
 figure.effect-bubba figcaption::before,
@@ -839,15 +839,15 @@ figure.effect-bubba figcaption::after {
 }
 
 figure.effect-bubba figcaption::before {
-	border-top: 1px solid #111111;
-	border-bottom: 1px solid #111111;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
 	-webkit-transform: scale(0,1);
 	transform: scale(0,1);
 }
 
 figure.effect-bubba figcaption::after {
-	border-right: 1px solid #111111;
-	border-left: 1px solid #111111;
+	border-right: 1px solid #fff;
+	border-left: 1px solid #fff;
 	-webkit-transform: scale(1,0);
 	transform: scale(1,0);
 }
@@ -858,7 +858,7 @@ figure.effect-bubba h2 {
 	transition: transform 0.35s;
 	-webkit-transform: translate3d(0,-20px,0);
 	transform: translate3d(0,-20px,0);
-    color: #111111;
+    color: #fff;
 }
 
 figure.effect-bubba p {
