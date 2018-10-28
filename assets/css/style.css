@@ -812,11 +812,11 @@ textarea.form-control {
 /*---------------*/
 
 figure.effect-bubba {
-	background: #f5f5f5;
+	background: #FFA07A;
 }
 
 figure.effect-bubba img {
-	opacity: 0.7;
+	opacity: 0.8;
 	-webkit-transition: opacity 0.8s;
 	transition: opacity 0.8s;
 }
