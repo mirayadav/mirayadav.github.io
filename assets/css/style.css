@@ -816,7 +816,7 @@ figure.effect-bubba {
 }
 
 figure.effect-bubba img {
-	opacity: 0.8;
+	opacity: 0.4;
 	-webkit-transition: opacity 0.8s;
 	transition: opacity 0.7s;
 }
