@@ -817,12 +817,12 @@ figure.effect-bubba {
 
 figure.effect-bubba img {
 	opacity: 0.8;
-	-webkit-transition: opacity 0.4s;
-	transition: opacity 0.7s;
+	-webkit-transition: opacity 0.9s;
+	transition: opacity 0.9s;
 }
 
 figure.effect-bubba:hover img {
-	opacity: 0.4;
+	opacity: 0.9;
 }
 
 figure.effect-bubba figcaption::before,
@@ -834,8 +834,8 @@ figure.effect-bubba figcaption::after {
 	left: 30px;
 	content: '';
 	opacity: 0;
-	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
-	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transition: opacity 0.9s, -webkit-transform 0.9s;
+	transition: opacity 0.9s, transform 0.9s;
 }
 
 figure.effect-bubba figcaption::before {
