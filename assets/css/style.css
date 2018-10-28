@@ -491,7 +491,7 @@ textarea.form-control {
 .social-links {
 	list-style: none;
 	padding: 0;
-	margin: 0 0 20px;
+	margin: 0 0 0px;
 }
 
 .social-links li {
