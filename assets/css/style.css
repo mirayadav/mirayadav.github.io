@@ -265,6 +265,16 @@ textarea.form-control {
 	color: #fff;
 }
 
+.pics_in_a_row {
+  display: flex;
+}
+
+.img1 { flex: 0.7505; }
+.img2 { flex: 0.7505; }
+.img3 { flex: 0.585; }
+.img4 { flex: 0.7505; }
+.img5 { flex: 0.7505; }
+
 .pfblock-header {
 	text-align: center;
 	margin: 0 0 60px;
