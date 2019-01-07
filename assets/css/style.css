@@ -630,7 +630,7 @@ textarea.form-control {
 
 .scroll-down {
 	position: absolute;
-	left: 50%;
+	left: 49.5%;
 	bottom: 40px;
 	border: 2px solid #fff;
 	border-radius: 50%;
